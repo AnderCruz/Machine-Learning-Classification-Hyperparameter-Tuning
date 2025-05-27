@@ -1,17 +1,16 @@
-# 🔍 Machine Learning Classification & Hyperparameter Tuning
+# Machine Learning Classification & Hyperparameter Tuning
 
 **Project by [Nowa Analytics Consulting](https://github.com/nowaanalytics)**
 *Developed as part of a personal portfolio for job applications in data science and AI-related roles.*
 
-## 📘 Project Overview
+## Project Overview
 
 This project demonstrates a full workflow for solving a classification problem using machine learning models and advanced hyperparameter tuning techniques. Built in Python with Jupyter Notebook, the project walks through essential stages of data preparation, exploratory data analysis (EDA), model training, evaluation, and optimization.
 
 The objective is to develop and fine-tune robust classification models that achieve high predictive performance on a given dataset.
 
----
 
-## 📂 Key Components
+## Key Components
 
 * **Data Preprocessing**
   Loading, inspecting, and preparing data (including encoding categorical variables, handling missing values, and standardization).
@@ -40,9 +39,8 @@ The objective is to develop and fine-tune robust classification models that achi
   * Confusion Matrix
   * ROC-AUC Curves
 
----
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 * Python (Pandas, NumPy, Matplotlib, Seaborn)
 * Scikit-learn
@@ -51,9 +49,8 @@ The objective is to develop and fine-tune robust classification models that achi
 * Scikit-optimize
 * Jupyter Notebook
 
----
 
-## 🎯 Goals
+## Goals
 
 * Demonstrate the complete ML classification pipeline
 * Compare different models and tuning strategies
