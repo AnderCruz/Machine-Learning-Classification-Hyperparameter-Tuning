@@ -1,7 +1,3 @@
-Aqui está um rascunho de README em inglês, com base no conteúdo do seu notebook `ML_Classification_Hiperparameter.ipynb`, para uso no GitHub. O texto está estruturado de forma profissional e clara para apresentação em portfólio.
-
----
-
 # 🔍 Machine Learning Classification & Hyperparameter Tuning
 
 **Project by [Nowa Analytics Consulting](https://github.com/nowaanalytics)**
