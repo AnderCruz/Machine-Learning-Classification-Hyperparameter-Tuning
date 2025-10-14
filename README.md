@@ -1,7 +1,6 @@
 # Machine Learning Classification & Hyperparameter Tuning
 
 **Project by Nowa Analytics Consulting**
-*Developed as part of a personal portfolio for job applications in data science and AI-related roles.*
 
 ## Project Overview
 
